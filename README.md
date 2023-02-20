@@ -21,9 +21,7 @@ Credential written.
 
 ## Installation
 ~~~
-> git clone https://github.com/HenriquedoVal/cred.git
-> cd cred
-> pip install .
+> pip install cred
 ~~~
 
 ## Future
